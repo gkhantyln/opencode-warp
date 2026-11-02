@@ -174,7 +174,7 @@ warp-cli settings
 ### Adım 1 — Depoyu al
 
 ```bat
-git clone https://github.com/<kullanıcı>/opencode-warp.git
+git clone https://github.com/gkhantyln/opencode-warp.git
 cd opencode-warp
 ```
 
