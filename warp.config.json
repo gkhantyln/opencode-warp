@@ -1,0 +1,10 @@
+{
+  "verifyOnStart": true,
+  "logEgress": true,
+  "rotateOnRateLimit": false,
+  "rotateCooldownMs": 45000,
+  "rotateMaxPerHour": 6,
+  "rotateWaitMs": 25000,
+  "traceTimeoutMs": 8000,
+  "cliTimeoutMs": 20000
+}
